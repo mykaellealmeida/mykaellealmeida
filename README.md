@@ -1,4 +1,7 @@
 ### Hi there 👋
+ meu nome é mykaelle
+ ### estou estudando no alura
+ Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 <!--
 **mykaellealmeida/mykaellealmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
