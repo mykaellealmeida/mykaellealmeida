@@ -1,5 +1,5 @@
 
-## 🌐 Socials:
+##    :cookie:	 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mykaellealmeida__) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/paulistanopr) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mykaellealmeida&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
